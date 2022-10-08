@@ -1,0 +1,4 @@
+Nama  : Muhamad Roby Satria
+Kelas : 2KA22
+NPM   : 10121766
+Tugas Baca dan menulis/mengcopy di file baru
